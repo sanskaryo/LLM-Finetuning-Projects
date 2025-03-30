@@ -1,9 +1,11 @@
 # LLM Fine-tuning Projects
+This repository hosts various projects focused on fine-tuning Large Language Models (LLMs).🚀
 
-This repository contains three different approaches to fine-tuning Large Language Models (LLMs):
+It is an active repository, with some projects still in progress and under development. Stay tuned for updates! 
 
 1. [Personal Dataset Fine-tuning](finetuning_personal_dataset.ipynb)
-2. [Mistral with QLora and PEFt](Fine_Tuning_with_Mistral_QLora_PEFt.ipynb)
+2. [Finetuning_Llama3_2](Finetuning_Llama3_2_3B.ipynb)
+
 3. [LoRA Fine-tuning](LORA_FineTuning.ipynb)
 
 ## Overview
@@ -11,7 +13,7 @@ This repository contains three different approaches to fine-tuning Large Languag
 This collection demonstrates different techniques for fine-tuning LLMs on custom datasets:
 
 - **Personal Dataset Fine-tuning**: Fine-tune models on your own dataset using standard techniques
-- **Mistral with QLora and PEFt**: Advanced fine-tuning using Mistral model with QLora quantization and PEFt parameter-efficient fine-tuning
+- **Finetuning_Llama3_2**: Advanced fine-tuning using LLAMA model with QLora quantization and PEFt parameter-efficient fine-tuning
 - **LoRA Fine-tuning**: Parameter-efficient fine-tuning using Low-Rank Adaptation
 
 ## Setup
