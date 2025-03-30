@@ -58,19 +58,19 @@ This repository showcases diverse methodologies for fine-tuning Large Language M
 
 - **Objective**: Adapt LLMs to user-specific data for personalized applications.
 - **Methodology**: Utilizes standard fine-tuning techniques on custom datasets.
-- **Dataset**: [Provide details or links if publicly available]
+- **Dataset**: [https://huggingface.co/datasets/mlabonne/FineTome-100k]
 
 ### 2. Finetuning Llama3 2 3B
 
 - **Objective**: Implement advanced fine-tuning using the Llama3 2 3B model.
 - **Techniques**: Incorporates QLoRA quantization and PEFT for efficient training.
-- **Dataset**: [Provide details or links if publicly available]
+
 
 ### 3. LoRA Fine-Tuning
 
 - **Objective**: Explore Low-Rank Adaptation for parameter-efficient fine-tuning.
 - **Methodology**: Applies LoRA techniques to adapt pre-trained models with reduced computational resources.
-- **Dataset**: [Provide details or links if publicly available]
+
 
 ## Usage Guidelines
 
