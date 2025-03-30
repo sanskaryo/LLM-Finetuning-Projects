@@ -1,0 +1,11 @@
+.env
+
+__pycache__/
+*.ckpt
+*.pt
+*.h5
+*.pkl
+*.log
+.DS_Store
+data/
+models/
